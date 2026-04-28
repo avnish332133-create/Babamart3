@@ -1,0 +1,70 @@
+{
+  "name": "Baba Mart 3.0",
+  "shortName": "Baba Mart 3.0",
+  "phone": "+917947419978",
+  "whatsapp": "918957960435",
+  "address": "Anna Chauraha, Near Anna Market, Daheli Sujanpur, Kanpur - 208013",
+  "locationName": "Daheli Sujanpur, Kanpur",
+  "timings": "9:00 AM - 10:00 PM",
+  "deliveryTime": "30-60 Mins",
+  "rating": "5.0",
+  "totalReviews": "3",
+  "googleMapsLink": "https://maps.app.goo.gl/nzxAsmk669X3fLFm9?g_st=ac",
+  "whatsappMessage": "Hi Baba Mart 3.0, I want to order some groceries. Can you help?",
+  "hero": {
+    "badge": "Anna Chauraha, Kanpur • Official Counter",
+    "headline": ["DAILY", "ESSENTIALS", "FAST."],
+    "description": "Baba Mart 3.0 brings the supermarket experience to your neighborhood. 30-60 Mins express delivery in Daheli Sujanpur."
+  },
+  "about": {
+    "hero": {
+      "badge": "Our Neighborhood Story",
+      "headline": ["SERVING KANPUR", "WITH PRIDE."],
+      "story": [
+        "Baba Mart 3.0 is a legacy of trust in Daheli Sujanpur. What started as a small neighborhood initiative has grown into a modern mart at Anna Chauraha, dedicated to serving local families.",
+        "We don't believe in middle-men. We bridge the gap between fresh staples and your kitchen, ensuring that every product on our shelf is worthy of your home.",
+        "Our \"3.0\" vision combines old-school neighborhood trust with modern convenience. Whether you walk into our aisles or order on WhatsApp, you're dealing with local people who care."
+      ]
+    },
+    "stats": [
+      { "label": "Products", "value": "2k+" },
+      { "label": "Daily Homes", "value": "5k+" }
+    ],
+    "values": [
+      { "title": "Honest Rates", "desc": "Transparent market pricing with no hidden markups." },
+      { "title": "Local Speed", "desc": "Delivered within 3km of Daheli Sujanpur in < 60 mins." },
+      { "title": "Verified Fresh", "desc": "Quality checks on every fruit, vegetable, and staple pack." },
+      { "title": "Store Pickup", "desc": "Order online and collect your bagged groceries in minutes." }
+    ],
+    "quote": "Your kitchen is our responsibility."
+  },
+  "contact": {
+    "hero": {
+      "badge": "Get In Touch",
+      "headline": ["VISIT OUR MART", "OR ORDER ONLINE."],
+      "description": "Located at Anna Chauraha, we are your favorite local shop. Message us your list on WhatsApp for the fastest home delivery in Kanpur."
+    },
+    "footer": {
+      "headline": "Serving Every Kitchen in 5km Radius.",
+      "description": "We deliver to Daheli Sujanpur, Sujanpur Colony, and all nearby localities. If you're near Anna Chauraha, we're your mart."
+    }
+  },
+  "legal": {
+    "privacy": [
+      "At Baba Mart 3.0, we prioritize your privacy. When you order via WhatsApp or phone, we collect minimal data required to fulfill your delivery: your name, contact number, and delivery address.",
+      "We do not share your personal information with third-party marketers. Your data is strictly used for order processing and occasionally for updates regarding store offers if you have opted in.",
+      "Our website does not use tracking cookies. We believe in a transparent and simple retail experience."
+    ],
+    "terms": [
+      "By using our service, you agree to provide accurate delivery information. We strive for delivery within 30-60 minutes, but timings may vary based on traffic and weather conditions in Kanpur.",
+      "Payment is typically collected upon delivery (Cash or UPI) unless otherwise specified. Please verify all items at the time of delivery.",
+      "Returns or exchanges are accepted for damaged or incorrect items within 2 hours of delivery if reported with the original packaging."
+    ],
+    "commitment": "Every product delivered is checked for freshness and quality. We adhere to local trade regulations and safety standards."
+  },
+  "gallery": [
+    { "id": "g1", "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGt3nOW1hp-61x6Zel8p9BKnCf6BD_giXzKxdhxHJCKJYnsJmtDdy9phARHl4apVWB6Fmj3tAWNV3cXXbBcHIF7x8wupmiFdOV0NCdxp-ENlPPJGYZfK0U_H3dc1X6sn64vyAExnZsORDs=s1360-w1360-h1020-rw", "title": "Main Storefront" },
+    { "id": "g2", "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEXueP35_8dP4cX2C1MyWFYSg20sTC6cisk-6l3zemUq3jnQhz78OvsSbVwdVQvEb7CjjlF-JYB_0D96A2FEXdJkVs2Nol9Dk70kNpflSAjxanfEALHk1IM1Vvze8jHcxggA_-eAg=w223-h373-n-k-no-nu", "title": "Inside Our Store" },
+    { "id": "g3", "url": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAEzRRsC8TBmAH-Ibmj2Qj265d4k3HGeIslT9SGUcas3BGIio2XNcKVWOjGnaWvrQ3kcdnMUbtQWp1FolQKfvtLkKBkp_4Ran52716OS9pbGTESVxjFLHooirrrHlMOiVBY-FuKOK9LrTZZ1=s1360-w1360-h1020-rw", "title": "Service Counter" }
+  ]
+}

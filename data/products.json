@@ -1,0 +1,82 @@
+[
+  {
+    "id": "p1",
+    "name": "Aashirvaad Superior Atta",
+    "price": 275,
+    "weight": "5kg",
+    "category": "staples",
+    "image": "https://m.media-amazon.com/images/I/9104JpXbv6L._SX679_.jpg"
+  },
+  {
+    "id": "p2",
+    "name": "Fortune Kachi Ghani Oil",
+    "price": 155,
+    "weight": "1L",
+    "category": "oil",
+    "image": "https://m.media-amazon.com/images/I/61amF3+1wWL._SX679_.jpg"
+  },
+  {
+    "id": "p3",
+    "name": "Amul Taaza Milk (Pkt of 2)",
+    "price": 68,
+    "weight": "1L",
+    "category": "dairy",
+    "image": "https://www.bbassets.com/media/uploads/p/l/40114416_8-amul-taaza-milk.jpg"
+  },
+  {
+    "id": "p4",
+    "name": "Maggi 2-Min Masala Noodles",
+    "price": 96,
+    "weight": "560g Pack",
+    "category": "snacks",
+    "image": "https://m.media-amazon.com/images/I/81zjjlTjheL.jpg"
+  },
+  {
+    "id": "p5",
+    "name": "Parle-G Gold Biscuits",
+    "price": 50,
+    "weight": "800g",
+    "category": "snacks",
+    "image": "https://www.bbassets.com/media/uploads/p/xl/40009934_11-parle-g-gold-gluco-biscuits.jpg"
+  },
+  {
+    "id": "p6",
+    "name": "Tata Tea Gold",
+    "price": 325,
+    "weight": "500g",
+    "category": "beverages",
+    "image": "https://www.bbassets.com/media/uploads/p/l/263642_22-tata-tea-gold-tea.jpg"
+  },
+  {
+    "id": "p7",
+    "name": "Surf Excel Easy Wash Powder",
+    "price": 120,
+    "weight": "1kg",
+    "category": "household",
+    "image": "https://m.media-amazon.com/images/I/61m1Pn9lzHL._SX679_.jpg"
+  },
+  {
+    "id": "p8",
+    "name": "Fortune Arhar Dal (Toor Dal)",
+    "price": 195,
+    "weight": "1kg",
+    "category": "staples",
+    "image": "https://m.media-amazon.com/images/I/61HWmesEe-L.jpg"
+  },
+  {
+    "id": "p9",
+    "name": "Haldiram's Bhujia Sev",
+    "price": 105,
+    "weight": "400g",
+    "category": "snacks",
+    "image": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/NI_CATALOG/IMAGES/ciw/2025/12/18/261966c0-d8da-46ce-a264-90b9e6fbebfa_A80T7FZ8CV_MN_17122025.png"
+  },
+  {
+    "id": "p10",
+    "name": "Catch Garam Masala Powder",
+    "price": 52,
+    "weight": "100g",
+    "category": "oil",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl5lA7a1rgktnApNvu-c5LM2ytqcy3656TCw&s"
+  }
+]

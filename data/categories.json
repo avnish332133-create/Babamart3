@@ -1,0 +1,8 @@
+[
+  { "id": "staples", "name": "Atta, Dal & Rice", "image": "https://www.jiomart.com/images/product/original/492338750/atta-dal-rice-combo-chakki-atta-5-kg-toor-dal-2-kg-surti-kolam-rice-2-kg-product-images-o492338750-p590318703-0-202407051514.jpg?im=Resize=(420,420)" },
+  { "id": "oil", "name": "Oil & Masala", "image": "https://zillion.zohocommerce.com/category-images/Screenshot+2023-01-18+at+10-32-00+masala+oil+%26amp%3B+food+grains+-+Google+Search.png/3717266000000108342/500x500" },
+  { "id": "snacks", "name": "Snacks & Biscuits", "image": "https://media.newindianexpress.com/TNIE%2Fimport%2F2018%2F11%2F13%2Foriginal%2Fbritannia.jpg?w=1024&auto=format%2Ccompress&fit=max" },
+  { "id": "dairy", "name": "Dairy & Bread", "image": "https://www.kiranapoorti.com/image/cache/catalog/Category%20of%20milk%20and%20bread/WhatsApp%20Image%202025-12-29%20at%2018.03.45-600x315w.jpeg" },
+  { "id": "beverages", "name": "Tea & Beverages", "image": "https://www.cokesolutions.com/content/dam/cokesolutions/us/images/Articles/794-total-store-connectivity-large.jpg" },
+  { "id": "household", "name": "Cleaning & Household", "image": "https://5.imimg.com/data5/IOS/Default/2026/1/573181212/KP/RA/KO/15948769/product-jpeg-500x500.jpeg" }
+]
